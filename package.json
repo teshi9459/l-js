@@ -1,0 +1,11 @@
+{
+  "name": "jsc",
+  "version": "1.0.0",
+  "description": "lern code in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Teshi",
+  "license": "MIT"
+}
